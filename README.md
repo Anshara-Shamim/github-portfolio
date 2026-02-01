@@ -6,7 +6,7 @@
 
 </div>
 
-## Professional Summary
+## Profile Summary
 I am a student of **Electronic Engineering**, specializing in the integration of hardware and software systems.  
 My technical focus encompasses **embedded systems** and **Python-based development**.
 
