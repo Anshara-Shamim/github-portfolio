@@ -6,24 +6,26 @@
 </div>
 
 ## Professional Summary
-I am a student of **Electronic Engineering** specializing in the integration of hardware and software. My technical focus encompasses **embedded systems**, **Python-based development**, **RESTful APIs**, and the design of intuitive **frontend interfaces**. 
+I am a student of **Electronic Engineering**, specializing in the integration of hardware and software systems.  
+My technical focus encompasses **embedded systems** and **Python-based development**.
 
-This portfolio serves as a formal documentation of my academic research, independent development, and my Final Year Project (FYP) milestones.
+This portfolio serves as a formal record of my academic and personal projects.
 
 ---
 
 ## 🔧 Research & Technical Interests
 * **Embedded Systems & Electronics:** Design and optimization of microcontroller-based solutions.
 * **IoT Frameworks:** Development using Arduino and ESP-series hardware.
-* **Software Engineering:** Systems programming in Python and backend logic.
-* **Interface Design:** Developing functional HTML/CSS frontends for technical applications.
+* **Software Engineering:** Systems programming and backend logic using Python.
+* **Interface Design:** Development of functional HTML/CSS frontends for technical applications.
 
 ---
 
 ## 📌 Portfolio Status
 > [!NOTE]
-> **Current Status: Under Development.**
-> I am currently migrating project documentation and source code to this repository. Detailed technical specifications will be available shortly.
+> **Current Status: Under Development**  
+> Project documentation and source code are currently being migrated to this repository.  
+> Detailed technical specifications will be made available progressively.
 
 ---
 
@@ -40,6 +42,6 @@ This portfolio serves as a formal documentation of my academic research, indepen
 
 <div align="center">
 
-*I appreciate your interest in my professional work. Please revisit for further technical updates.*
+*Thank you for reviewing. Please revisit this repository for future updates.*
 
 </div>
