@@ -1,4 +1,4 @@
-# Anshara Shamim – Engineering Portfolio
+# Anshara Shamim 
 
 Welcome to my GitHub profile.
 
