@@ -1,6 +1,9 @@
-# Anshara Shamim 
+<div align="center">
 
-Welcome to my GitHub profile.
+# In this repository, I, Anshara, present a curated collection of my technical work and analyses.
+
+---
+</div>
 
 I am an **Electronic Engineering student** with hands-on experience in **embedded systems, Python programming, APIs, and frontend interfaces**.  
 This GitHub showcases my academic, personal, and final-year projects.
