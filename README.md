@@ -5,32 +5,41 @@
 ---
 </div>
 
-I am an **Electronic Engineering student** with hands-on experience in **embedded systems, Python programming, APIs, and frontend interfaces**.  
-This GitHub showcases my academic, personal, and final-year projects.
+## Professional Summary
+I am a student of **Electronic Engineering** specializing in the integration of hardware and software. My technical focus encompasses **embedded systems**, **Python-based development**, **RESTful APIs**, and the design of intuitive **frontend interfaces**. 
+
+This portfolio serves as a formal documentation of my academic research, independent development, and my Final Year Project (FYP) milestones.
 
 ---
 
-## 🔧 Areas of Interest
-- Embedded Systems & Electronics
-- Arduino and ESP-based Projects
-- Python Programming
-- API & Backend Development
-- Frontend Interfaces (HTML & CSS)
+## 🔧 Research & Technical Interests
+* **Embedded Systems & Electronics:** Design and optimization of microcontroller-based solutions.
+* **IoT Frameworks:** Development using Arduino and ESP-series hardware.
+* **Software Engineering:** Systems programming in Python and backend logic.
+* **Interface Design:** Developing functional HTML/CSS frontends for technical applications.
 
 ---
 
 ## 📌 Portfolio Status
-🚧 **Work in Progress**
-Project details and repositories will be added soon.
+> [!NOTE]
+> **Current Status: Under Development.**
+> I am currently migrating project documentation and source code to this repository. Detailed technical specifications will be available shortly.
 
 ---
 
-## 🛠 Tools & Technologies
-- Languages: Python, Embedded C  
-- Hardware: Arduino, ESP, Raspberry Pi  
-- Web: HTML, CSS  
-- Tools: Git, GitHub, VS Code, MATLAB, Proteus
+## 🛠 Technical Competencies
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, Embedded C, C++ |
+| **Hardware** | Arduino, ESP32/ESP8266, Raspberry Pi |
+| **Simulation & Design** | MATLAB, Proteus, Multisim |
+| **Web & API** | HTML5, CSS3, REST APIs |
+| **Version Control** | Git, GitHub |
 
 ---
 
-⭐ Thank you for visiting. Please check back for updates!
+<div align="center">
+
+*I appreciate your interest in my professional work. Please revisit for further technical updates.*
+
+</div>
