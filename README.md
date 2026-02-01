@@ -1,6 +1,8 @@
 <div align="center">
 
-In this repository, I, Anshara, present a curated collection of my technical work and analyses.
+# In this repository, I, Anshara, present a curated collection of my technical work and analyses.
+
+---
 
 </div>
 
